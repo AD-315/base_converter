@@ -28,4 +28,4 @@ This program was designed as part of a learning assignment to practice manual ba
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AD-315/base_converter.git
